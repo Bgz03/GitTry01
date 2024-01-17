@@ -9,5 +9,6 @@ public class test1 {
         System.out.println("冲突合并！");
         System.out.println("冲突合并 我是hotfix 分支的改动");
         System.out.println("push"+66666);
+        System.out.println("please pull back");
     }
 }
